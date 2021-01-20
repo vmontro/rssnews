@@ -1,0 +1,25 @@
+<news>
+  <testata nomeTestata="Il Sole 24" id="sole">
+    <categoria nomeCategoria="USA">https://www.ilsole24ore.com/rss/mondo--usa.xml</categoria>
+    <categoria nomeCategoria="Business">https://www.ilsole24ore.com/rss/finanza--business.xml</categoria>
+    <categoria nomeCategoria="Sanità">https://www.ilsole24ore.com/rss/norme-e-tributi--sanita.xml</categoria>
+    <categoria nomeCategoria="Vino">https://www.ilsole24ore.com/rss/food--vino.xml</categoria>
+  </testata>
+  <testata nomeTestata="TGCom24" id="tgcom">
+    <categoria nomeCategoria="Scuola">http://www.tgcom24.mediaset.it/rss/skuola.xml</categoria>
+    <categoria nomeCategoria="Tecnologia">http://www.tgcom24.mediaset.it/rss/tgtech.xml</categoria>
+    <categoria nomeCategoria="Viaggi">http://www.tgcom24.mediaset.it/rss/viaggi.xml</categoria>
+    <categoria nomeCategoria="Mondo">http://www.tgcom24.mediaset.it/rss/mondo.xml</categoria>
+  </testata>
+  <testata nomeTestata="La Rai" id="rai">
+    <categoria nomeCategoria="Musica">http://www.rai.it/dl/portale/html/PublishingBlock-753202de-e0ae-474f-b497-f01aa2e4d595-rss.xml</categoria>
+    <categoria nomeCategoria="Fiction">http://www.rai.it/dl/portale/html/PublishingBlock-3dba4d97-f064-46e3-9d65-54c063977bc2-rss.xml</categoria>
+    <categoria nomeCategoria="Comici">http://www.rai.it/dl/portale/html/PublishingBlock-919381a1-102c-4e11-b439-9bf0c51c88b9-rss.xml</categoria>
+  </testata>
+  <testata nomeTestata="Il Corriere della Sera" id="corriere">
+    <categoria nomeCategoria="Salute">http://xml2.corriereobjects.it/rss/salute.xml</categoria>
+    <categoria nomeCategoria="Economia">http://xml2.corriereobjects.it/rss/economia.xml</categoria>
+    <categoria nomeCategoria="Cultura">http://xml2.corriereobjects.it/rss/cultura.xml</categoria>
+    <categoria nomeCategoria="Ambiente">http://xml2.corriereobjects.it/rss/ambiente.xml</categoria>
+  </testata>
+</news>
